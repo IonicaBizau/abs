@@ -1,5 +1,5 @@
 // Dependencies
-var Abs = require("abs");
+var Abs = require("../lib");
 
 console.log(Abs("/foo"));
 // => "/foo"
