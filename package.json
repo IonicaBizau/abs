@@ -1,0 +1,33 @@
+{
+  "name": "abs",
+  "version": "1.0.0",
+  "description": "A library to convert a path into an absolute path.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "dependencies": {
+    "ul": "^5.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IonicaBizau/node-abs.git"
+  },
+  "keywords": [
+    "absolute",
+    "path"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/node-abs/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/node-abs"
+}
