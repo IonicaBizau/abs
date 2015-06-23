@@ -42,6 +42,15 @@ console.log(Abs("~/foo"));
 
 ## Documentation
 
+### `Abs(input)`
+Computes the absolute path of an input.
+
+#### Params
+- **String** `input`: The input path.
+
+#### Return
+- **String** The absolute path.
+
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
