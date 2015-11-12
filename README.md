@@ -51,6 +51,8 @@ If you are using this library in one of your projects, add it in this list. :spa
 
  - [`ghcal`](https://github.com/IonicaBizau/ghcal)
 
+ - [`git-issues`](https://github.com/softwarescales/git-issues) by Gabriel Petrovay
+
  - [`git-repos`](https://github.com/IonicaBizau/node-git-repos#readme)
 
  - [`git-stats`](https://github.com/IonicaBizau/git-stats)
