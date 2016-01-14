@@ -1,6 +1,6 @@
-# abs [![Support this project][donate-now]][paypal-donations]
+# abs [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/abs.svg)](https://www.npmjs.com/package/abs) [![Downloads](https://img.shields.io/npm/dt/abs.svg)](https://www.npmjs.com/package/abs) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-A library to convert a path into an absolute path.
+> A library to convert a path into an absolute path.
 
 ## Installation
 
@@ -45,9 +45,13 @@ If you are using this library in one of your projects, add it in this list. :spa
 
  - [`cdnjs-importer`](https://github.com/cdnjs/cdnjs-importer)
 
+ - [`engine-paths`](https://github.com/jillix/engine-paths#readme) by jillix
+
  - [`engine-tools`](https://github.com/jillix/engine-tools) by jillix
 
  - [`fwatcher`](https://github.com/IonicaBizau/node-fwatcher)
+
+ - [`gh-notifier`](https://bitbucket.org/IonicaBizau/gh-notifier#readme)
 
  - [`ghcal`](https://github.com/IonicaBizau/ghcal)
 
@@ -61,6 +65,8 @@ If you are using this library in one of your projects, add it in this list. :spa
 
  - [`gpm`](https://github.com/IonicaBizau/gpm)
 
+ - [`idea`](https://github.com/IonicaBizau/idea)
+
  - [`messager`](https://github.com/IonicaBizau/node-messager#readme)
 
  - [`mongof`](https://github.com/IonicaBizau/node-mongof)
@@ -72,6 +78,8 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`ssh-remote`](https://github.com/IonicaBizau/ssh-remote)
 
  - [`statique`](https://github.com/IonicaBizau/node-statique)
+
+ - [`web-term`](https://github.com/IonicaBizau/web-term)
 
 ## License
 
