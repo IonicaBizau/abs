@@ -8,4 +8,3 @@ console.log(abs("foo"));
 
 console.log(abs("~/foo"));
 // => "/home/username/foo"
-
