@@ -1,12 +1,11 @@
-// Dependencies
-var Abs = require("../lib");
+const abs = require("../lib");
 
-console.log(Abs("/foo"));
+console.log(abs("/foo"));
 // => "/foo"
 
-console.log(Abs("foo"));
+console.log(abs("foo"));
 // => "/path/to/where/you/are/foo"
 
-console.log(Abs("~/foo"));
+console.log(abs("~/foo"));
 // => "/home/username/foo"
 
