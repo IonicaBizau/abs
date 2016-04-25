@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:IonicaBizau/node-abs.git"
+    "url": "git@github.com:IonicaBizau/abs.git"
   },
   "keywords": [
     "absolute",
@@ -27,7 +27,7 @@
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IonicaBizau/node-abs/issues"
+    "url": "https://github.com/IonicaBizau/abs/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/node-abs"
+  "homepage": "https://github.com/IonicaBizau/abs"
 }
