@@ -76,7 +76,7 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`pm2-meteor`](https://github.com/andruschka/pm2-meteor) (by andruschka)—Simplest way to deploy, scale and run Meteor Apps with PM2.
  - [`rucksack`](https://github.com/IonicaBizau/rucksack#readme)—Bundle js files by replacing the require calls in-place.
  - [`ssh-remote`](https://github.com/IonicaBizau/ssh-remote)—Automagically switch on the SSH remote url in a Git repository.
- - [`statique`](https://github.com/IonicaBizau/node-statique)—A Node.JS static server module with built-in cache options and route features.
+ - [`statique`](https://github.com/IonicaBizau/statique)—A Node.JS static server module with built-in cache options and route features.
  - [`tithe`](https://github.com/IonicaBizau/tithe)—Organize and track the tithe payments.
  - [`web-term`](https://github.com/IonicaBizau/web-term)—A full screen terminal in your browser.
 
