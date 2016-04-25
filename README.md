@@ -29,6 +29,7 @@ console.log(abs("~/foo"));
 
 ## :memo: Documentation
 
+
 ### `abs(input)`
 Computes the absolute path of an input.
 
@@ -78,6 +79,7 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`statique`](https://github.com/IonicaBizau/node-statique)—A Node.JS static server module with built-in cache options and route features.
  - [`tithe`](https://github.com/IonicaBizau/tithe)—Organize and track the tithe payments.
  - [`web-term`](https://github.com/IonicaBizau/web-term)—A full screen terminal in your browser.
+
 ## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
