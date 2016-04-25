@@ -61,6 +61,6 @@ Thanks! :sweat_smile:
 
 
 
-[1]: https://github.com/IonicaBizau/node-abs/issues
+[1]: https://github.com/IonicaBizau/abs/issues
 
 [2]: https://github.com/IonicaBizau/code-style
