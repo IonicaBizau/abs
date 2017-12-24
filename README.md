@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save abs
+# Using npm
+npm install --save abs
+
+# Using yarn
+yarn add abs
 ```
 
 
