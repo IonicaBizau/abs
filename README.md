@@ -39,7 +39,9 @@ There are few ways to get help:
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
+
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
 
 
 ## :memo: Documentation
@@ -84,6 +86,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 
  - [`3abn`](https://github.com/IonicaBizau/3abn#readme)—A 3ABN radio client in the terminal.
+ - [`auto-geo-sunset`](https://github.com/aminnaggar/auto-geo-sunset#readme) (by Amin El-Naggar)—Automagically figures out your location using your ip, and uses that to calculate the time of sunset.
  - [`bible`](https://github.com/BibleJS/BibleApp)—Read the Holy Bible via the command line.
  - [`blah`](https://github.com/IonicaBizau/blah)—A command line tool to optimize the repetitive actions.
  - [`bloggify-paths`](https://github.com/IonicaBizau/bloggify-paths#readme)—Helper library for maintaining the Bloggify paths in one place.
@@ -118,8 +121,9 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`packy`](https://github.com/IonicaBizau/packy#readme)—Set default fields in your package.json files.
  - [`parrot-bot`](https://github.com/IonicaBizau/parrot-bot#readme)—A parrot-like bot you can talk with.
  - [`pm2-meteor`](https://github.com/andruschka/pm2-meteor) (by andruschka)—Simplest way to deploy, scale and run Meteor Apps with PM2.
+ - [`pm2-meteor-nvm`](https://github.com/andruschka/pm2-meteor) (by andruschka)—Simplest way to deploy, scale and run Meteor Apps with PM2.
  - [`read-file-cache`](https://github.com/IonicaBizau/read-file-cache#readme)—Read files and cache them.
- - [`rucksack`](https://github.com/IonicaBizau/rucksack-new#readme)—JavaScript and CSS bundler.
+ - [`rucksack`](https://github.com/Bloggify/rucksack#readme) (by Bloggify)—JavaScript and CSS bundler.
  - [`ship-release`](https://github.com/IonicaBizau/ship-release#readme)—Publish new versions on GitHub and npm with ease.
  - [`simplywatch`](https://github.com/danielkalen/simplywatch#readme) (by danielkalen)—Watches files and upon change executes a command for each file INDIVIDUALLY with file-related params
  - [`ssh-remote`](https://github.com/IonicaBizau/ssh-remote)—Automagically switch on the SSH remote url in a Git repository.
