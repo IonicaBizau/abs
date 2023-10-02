@@ -7,9 +7,6 @@
     "example": "example",
     "test": "test"
   },
-  "dependencies": {
-    "ul": "^5.0.0"
-  },
   "devDependencies": {
     "mocha": "^2.2.5"
   },
@@ -25,6 +22,9 @@
     "path"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "contributors": [
+    "Arya <arya20j4@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/abs/issues"
