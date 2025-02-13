@@ -19,7 +19,7 @@
 
 # abs
 
- [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/abs.svg)](https://www.npmjs.com/package/abs) [![Downloads](https://img.shields.io/npm/dt/abs.svg)](https://www.npmjs.com/package/abs) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+ [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/abs.svg)](https://www.npmjs.com/package/abs) [![Downloads](https://img.shields.io/npm/dt/abs.svg)](https://www.npmjs.com/package/abs) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/@johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 <a href="https://www.buymeacoffee.com/H96WwChMy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
 
@@ -96,6 +96,7 @@ console.log(abs("~/foo"));
 
 
 
+
 ## :question: Get Help
 
 There are few ways to get help:
@@ -105,6 +106,8 @@ There are few ways to get help:
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
+
 
 
 
@@ -176,57 +179,65 @@ Thanks! :heart:
 ## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - `gry`
- - `package-json-path`
- - `write-file-p`
- - `maybe-require`
- - `fwatcher`
- - `read-file-cache`
- - `ethers-cli`
- - `engine-paths`
- - `git-repos`
- - `bible.js`
- - `git-stats`
- - `rucksack`
- - `statique`
- - `engine-tools`
- - `git-command`
- - `ghcal`
- - `packy`
- - `np-init`
- - `namy`
- - `web-term`
- - `blah`
+ - `3abn`
+ - `@isysd/gpm`
+ - `@well-crafted/git-unsaved`
+ - `aha-moment`
+ - `angularvezba`
+ - `arumia`
  - `auto-geo-sunset`
- - `pm2-meteor-nvm`
- - `bloggify-paths`
  - `bible`
- - `engine-app`
- - `gh-notifier`
- - `pm2-meteor-args`
+ - `bible.js`
+ - `blah`
+ - `bloggify`
+ - `bloggify-cli`
+ - `bloggify-paths`
+ - `cdnjs-importer`
  - `cli-sunset`
  - `emojer-cli`
+ - `engine-app`
+ - `engine-paths`
+ - `engine-tools`
+ - `ethers-cli`
+ - `extendscript-bundlr`
+ - `fwatcher`
+ - `gh-notifier`
+ - `ghcal`
+ - `git-command`
+ - `git-issues`
+ - `git-repos`
+ - `git-stats`
  - `github-labeller`
- - `image-to-ascii-cli`
+ - `gpm`
+ - `gry`
  - `idea`
- - `parrot-bot`
+ - `image-to-ascii-cli`
+ - `markdownalint-cli2`
+ - `maybe-require`
  - `mdy`
- - `mongof`
  - `messager`
- - `tithe`
- - `ssh-remote`
+ - `mongof`
+ - `namy`
+ - `np-init`
+ - `package-json-path`
+ - `packy`
+ - `parrot-bot`
+ - `pm2-meteor`
+ - `pm2-meteor-args`
+ - `pm2-meteor-nvm`
+ - `read-file-cache`
+ - `rucksack`
  - `rucksack.js`
+ - `ship-release`
+ - `simplywatch`
+ - `ssh-remote`
+ - `statique`
  - `tester-init`
  - `tilda-init`
- - `cdnjs-importer`
- - `pm2-meteor`
- - `simplywatch`
- - `@isysd/gpm`
- - `gpm`
- - `extendscript-bundlr`
- - `ship-release`
- - `3abn`
- - `git-issues`
+ - `tithe`
+ - `tools_may_24`
+ - `web-term`
+ - `write-file-p`
 
 
 
