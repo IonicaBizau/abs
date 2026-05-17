@@ -1,20 +1,19 @@
-// Dependencies
-var Abs = require("../lib")
-  , Assert = require("assert")
-  , Ul = require("ul")
-  ;
+import assert from "node:assert";
+import Ul from "ul";
+import Abs from "../lib/index.js";
+const { it } = global;
 
 it("should support absolute inputs", function (cb) {
-    Assert.equal(Abs("/foo"), "/foo");
+    assert.equal(Abs("/foo"), "/foo");
     cb();
 });
 
 it("should support relative inputs", function (cb) {
-    Assert.equal(Abs("foo"), process.cwd() + "/foo");
+    assert.equal(Abs("foo"), process.cwd() + "/foo");
     cb();
 });
 
 it("should support home files/dirs", function (cb) {
-    Assert.equal(Abs("~/foo"), Ul.home() + "/foo");
+    assert.equal(Abs("~/foo"), Ul.home() + "/foo");
     cb();
 });

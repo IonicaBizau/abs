@@ -74,7 +74,7 @@ yarn add abs
 
 
 ```js
-const abs = require("abs");
+import abs from "abs";
 
 console.log(abs("/foo"));
 // => "/foo"

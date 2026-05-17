@@ -1,4 +1,4 @@
-const abs = require("../lib");
+import abs from "../lib/index.js";
 
 console.log(abs("/foo"));
 // => "/foo"
