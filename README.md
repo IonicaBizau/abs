@@ -96,6 +96,26 @@ console.log(abs("~/foo"));
 
 
 
+## :memo: Documentation
+
+
+### `abs(input)`
+Computes the absolute path of an input.
+
+#### Params
+
+- **string** `input`: The input path (if not provided, the current working directory will be returned).
+
+#### Return
+- **string** The absolute path.
+
+
+
+
+
+
+
+
 
 ## :question: Get Help
 
@@ -106,25 +126,6 @@ There are few ways to get help:
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
-
-
-
-
-
-
-
-## :memo: Documentation
-
-
-### `abs(input)`
-Computes the absolute path of an input.
-
-#### Params
-
-- **String** `input`: The input path (if not provided, the current working directory will be returned).
-
-#### Return
-- **String** The absolute path.
 
 
 
@@ -173,71 +174,6 @@ Thanks! :heart:
 
 
 
-
-
-
-## :dizzy: Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
-
- - `3abn`
- - `@isysd/gpm`
- - `@well-crafted/git-unsaved`
- - `aha-moment`
- - `angularvezba`
- - `arumia`
- - `auto-geo-sunset`
- - `bible`
- - `bible.js`
- - `blah`
- - `bloggify`
- - `bloggify-cli`
- - `bloggify-paths`
- - `cdnjs-importer`
- - `cli-sunset`
- - `emojer-cli`
- - `engine-app`
- - `engine-paths`
- - `engine-tools`
- - `ethers-cli`
- - `extendscript-bundlr`
- - `fwatcher`
- - `gh-notifier`
- - `ghcal`
- - `git-command`
- - `git-issues`
- - `git-repos`
- - `git-stats`
- - `github-labeller`
- - `gpm`
- - `gry`
- - `idea`
- - `image-to-ascii-cli`
- - `markdownalint-cli2`
- - `maybe-require`
- - `mdy`
- - `messager`
- - `mongof`
- - `namy`
- - `np-init`
- - `package-json-path`
- - `packy`
- - `parrot-bot`
- - `pm2-meteor`
- - `pm2-meteor-args`
- - `pm2-meteor-nvm`
- - `read-file-cache`
- - `rucksack`
- - `rucksack.js`
- - `ship-release`
- - `simplywatch`
- - `ssh-remote`
- - `statique`
- - `tester-init`
- - `tilda-init`
- - `tithe`
- - `tools_may_24`
- - `web-term`
- - `write-file-p`
 
 
 
